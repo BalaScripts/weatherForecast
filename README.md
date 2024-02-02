@@ -26,6 +26,8 @@ To run this project locally, follow these steps:
 5. Run the application using `npm start`.
 6. Open your web browser and go to `http://localhost:3000` to view the app.
 
+## Live Demo
+Access the live version of the application [here](https://balascripts.github.io/weatherForecast/).
 
 
 
